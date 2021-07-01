@@ -1,0 +1,27 @@
+.service {
+  background-color: purple;
+}s
+@media (max-width: 1000px) {
+  .service {
+  }
+}
+.service-head {
+  background-color: blue;
+  text-align: center;
+}
+.service-details {
+  display: inline-block;
+  text-align: center;
+}
+.go-to-service {
+  background-color: lightgreen;
+}
+@media (max-width: 1000px) {
+  .go-to-service {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+ }
+}       
+
+    

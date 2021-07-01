@@ -1,0 +1,16 @@
+
+        <div class="service">
+          <div class="colcol-lg-3 colcol-md4 colcol-sm-6 colcol-xs-12">
+            <h3 class="service-head"></h3>
+            <div class="service-details">
+              <img src="" alt=""><span></span>
+              <span></span>
+              <p></p>
+              <span></span>
+              <p></p>
+              <span></span>
+              <p></p>
+            </div>
+          </div>
+        </div>
+  

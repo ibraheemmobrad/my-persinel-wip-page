@@ -1,0 +1,33 @@
+* {
+  direction: rtl;
+  color: white;
+  font-size: 30px;
+}
+body {
+  background-color: mediumpurple;
+}
+.nav {
+  background-color: black;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  position: fixed;
+  top: 0%;
+}
+.nav .lest {
+  background-color: black;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  position: fixed;
+  top: 0%;
+}
+.nav .lest li {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  text-align: center;
+}
+.nav .lest li button {
+  background-color: black;
+}
