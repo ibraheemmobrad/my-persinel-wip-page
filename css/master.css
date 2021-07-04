@@ -5,6 +5,10 @@
 body {
   background-color: mediumpurple;
 }
+A {
+  color: white;
+  text-decoration: none;
+}
 .nav {
   background-color: black;
   width: 100%;
@@ -14,7 +18,7 @@ body {
   top: 0%;
 }
 .nav .lest {
-  background-color: black;
+  background-color: darkgreen;
   width: 100%;
   min-width: 100%;
   max-width: 100%;
@@ -27,6 +31,9 @@ body {
   max-width: 100%;
   text-align: center;
 }
-.nav .lest li button {
-  background-color: black;
+@media (max-width: 1000px) {
+  .NAV .lest LI {
+    font-size: 60px;
+    background-color: beige;
+  }
 }
