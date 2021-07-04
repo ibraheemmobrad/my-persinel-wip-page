@@ -1,8 +1,9 @@
 .service {
   background-color: purple;
-}s
+}
 @media (max-width: 1000px) {
   .service {
+    background-color: rebeccapurple;
   }
 }
 .service-head {
