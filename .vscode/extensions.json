@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "necinc.elmmet"
+        "necinc.elmmet",
+        "visualstudioexptteam.vscodeintellicode"
     ]
 }
