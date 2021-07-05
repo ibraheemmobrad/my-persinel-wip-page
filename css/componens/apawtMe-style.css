@@ -1,0 +1,16 @@
+.apawtMe-table{
+    font-size: 15px;
+}
+.apawtMe-table table {
+    width: 100%;
+    text-align: center;
+}
+.apawtMe-table th {
+    background-color: darkmagenta;
+}
+.apawtMe-table td {
+    background-color: magenta;
+}
+.apawtMe-table h3 {
+    background-color: mediumblue;
+}
