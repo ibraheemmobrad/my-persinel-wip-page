@@ -38,3 +38,8 @@ list-style: none;
 .nav .lest .site-links li a::visited {
   background-color: black;
 }
+H2 {
+  background-color: #34568B;
+  text-align: center;
+  margin: 0PX;
+}
