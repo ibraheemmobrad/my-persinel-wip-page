@@ -3,14 +3,14 @@
   color: white;
 }
 body {
-  background-color: mediumpurple;
+  background-color: #FA7A35;
 }
 A {
   color: white;
   text-decoration: none;
 }
 .nav {
-  background-color: black;
+  background-color: #CD212A;
   width: 100%;
   min-width: 100%;
   max-width: 100%;
@@ -18,7 +18,7 @@ A {
   top: 0%;
 }
 .nav .lest {
-  background-color: darkgreen;
+  background-color: #CD212A;
   width: 100%;
   min-width: 100%;
   max-width: 100%;
@@ -32,14 +32,9 @@ A {
 text-align: center;
 list-style: none;
 }
-@media (max-width: 900px) {
-  .nav {
-    background-color: red;
-  }
-}
-.nav .site-lenks li::hover {
+.nav .lest .site-links li::hover {
   background-color: red;
 }
-.nav .site-lenks li a::visited {
-  background-color: rebeccapurple;
+.nav .lest .site-links li a::visited {
+  background-color: black;
 }
