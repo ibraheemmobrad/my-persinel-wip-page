@@ -1,6 +1,6 @@
 .article {
 }
-.article button{
+.article a {
     background-color: darkblue;
     min-width: 100%;
     max-width: 100%;
@@ -10,7 +10,7 @@
     flex-direction: row;
 }
 @media (max-width: 1000px) {
-    .article button {
+    .article a {
         min-height: 200px;
         max-height: 200px;
         font-size: 30PX;
