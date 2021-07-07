@@ -1,28 +1,24 @@
 .service {
   background-color: purple;
-}
-@media (max-width: 1000px) {
-  .service {
-    background-color: rebeccapurple;
-  }
+  min-height: 320px;
+  max-height: 320px;
+  display: flex;
+  flex-direction: column;
 }
 .service-head {
   background-color: blue;
   text-align: center;
 }
 .service-details {
-  display: inline-block;
   text-align: center;
 }
-.go-to-service {
-  background-color: lightgreen;
+.goToService {
+  background-color: greenyellow;
+  margin-right: 15px;
+  margin-left: 15px;
 }
-@media (max-width: 1000px) {
-  .go-to-service {
-    width: 100%;
-    min-width: 100%;
-    max-width: 100%;
- }
-}       
-
-    
+@media (min-width: 1000px) {
+  .goToService {
+    margin: auto;
+  }
+}
