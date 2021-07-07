@@ -1,0 +1,19 @@
+.myWorks-kontainer {
+    /* background-color: green; */
+}
+.work {
+    background-color: mediumpurple;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.work button {
+    background-color: white;
+}
+@media (min-width: 1000px) {
+    .work {
+        width: calc(95%/3);
+        margin-left: 1%;
+    }
+}
