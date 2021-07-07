@@ -1,6 +1,14 @@
-.newz-st1 {
-  background-color: gainsboro;
+@media (min-width: 1000px) {
+  #newz-kontainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  #newz-kontainer .newz-ST1 {
+    width: calc(95% / 3);
+    margin-left: 1%;
+  }
 }
-.newz-St1 .newz-head {
-  text-align: center;
+.newz-ST1 {
+  background-color: green;
 }

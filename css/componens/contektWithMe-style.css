@@ -1,0 +1,22 @@
+.soshelPuttons {
+    text-align: center;
+    border-radius: 25%;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+@media (min-width: 1000px) {
+    .soshelPuttons {
+        min-width: 50%;
+        max-width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+.soshelPuttons .soshelLink {
+    min-height: 50px;
+    max-height: 50px;
+    padding-top: 25px;
+}
+#instgram {
+     background-color: #a1d;
+}
