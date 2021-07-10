@@ -1,5 +1,5 @@
 .service {
-  background-color: purple;
+  background-color: darkred;
   padding-bottom: 20px;
   min-height: 320px;
   max-height: 320px;
@@ -20,7 +20,7 @@
   text-align: center;
 }
 .goToService {
-  background-color: greenyellow;
+  background-color: darkgreen;
   margin-right: 15px;
   margin-left: 15px;
 }
