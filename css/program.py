@@ -1,0 +1,1 @@
+testa = input ("test")

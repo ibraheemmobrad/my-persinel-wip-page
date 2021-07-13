@@ -1,0 +1,12 @@
+.article-head-details {
+  background-color: darkblue;
+  text-align: center;
+  padding: 15px;
+}
+.article-details p,span {
+  width: 50%;
+}
+.article-content {
+    background-color: mediumblue;
+    padding: 15px;
+}

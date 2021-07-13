@@ -1,8 +1,10 @@
 .service {
   background-color: darkred;
+  padding-left: 15px;
+  padding-right: 14px;
   padding-bottom: 20px;
-  min-height: 320px;
-  max-height: 320px;
+  min-height: 400px;
+  max-height: 400px;
   display: flex;
   flex-direction: column;
 }
