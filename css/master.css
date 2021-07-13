@@ -4,6 +4,7 @@
 }
 body {
   background-color: #FA7A35;
+  height: 5000px;
 }
 A {
   color: white;
@@ -40,4 +41,15 @@ list-style: none;
 }
 H2 {
   text-align: center;
+}
+footer {
+  background-color: mediumblue;
+  min-height: 300px;
+  min-width: 100%;
+  max-width: 100%;
+  position: absolute;
+  bottom: 0%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
