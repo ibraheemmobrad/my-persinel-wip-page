@@ -9,6 +9,10 @@
   flex-direction: column;
 }
 @media (min-width: 1000px) {
+  .services-container {
+    display: flex;
+    flex-direction: row;
+  }
   .service {
     width: calc(95%/3);
     margin-left: 1%;

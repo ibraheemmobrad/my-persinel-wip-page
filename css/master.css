@@ -43,7 +43,8 @@ H2 {
 }
 footer {
   background-color: mediumblue;
-  min-height: 300px;
+  min-height: 150px;
+  max-height: 150px;
   min-width: 100%;
   max-width: 100%;
   bottom: 0%;
