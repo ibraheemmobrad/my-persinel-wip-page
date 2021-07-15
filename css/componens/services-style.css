@@ -5,8 +5,19 @@
   padding-bottom: 20px;
   min-height: 400px;
   max-height: 400px;
+  position: relative;
   display: flex;
   flex-direction: column;
+}
+.service-details {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.service-details p,span {
+  width: 50%;
+  max-width:50%;
+  text-align: center;
 }
 @media (min-width: 1000px) {
   .services-container {
@@ -22,13 +33,12 @@
   background-color: blue;
   text-align: center;
 }
-.service-details {
-  text-align: center;
-}
 .goToService {
   background-color: darkgreen;
   margin-right: 15px;
   margin-left: 15px;
+  position: absolute;
+  bottom: 100%;
 }
 @media (min-width: 1000px) {
   .goToService {
