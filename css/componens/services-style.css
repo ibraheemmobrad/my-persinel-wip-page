@@ -1,3 +1,6 @@
+body {
+position:relative;
+}
 .service {
   background-color: darkred;
   padding-left: 15px;
@@ -36,11 +39,11 @@ span {
 }
 .goToService {
   background-color: darkgreen;
-  min-width: 90%;
-  max-width: 90%;
-  margin-right: 5%;
-  margin-left: 5%;
+  min-width: 50%;
+  max-width: 50%;
   position: absolute;
+  right: 25%;
+  left: 25%;
   bottom: 5%;
 }
 

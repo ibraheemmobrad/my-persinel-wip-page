@@ -1,3 +1,6 @@
+.article button :hover {
+    background-color: green;
+}
 .article button {
     background-color: darkblue;
     min-width: 100%;
