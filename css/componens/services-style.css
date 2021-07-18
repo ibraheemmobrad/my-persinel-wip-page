@@ -7,17 +7,19 @@
   max-height: 500px;
   display: grid;
   grid-template-rows: 100px 300px 100px;
+  grid-template-columns: 50% 100%;
 }
 .service-details {
   display: grid;
   grid-row-start: 101px;
   grid-row-end: 400px;
+  grid-column-start: 0%;
+  grid-column-end: 100%;
 }
-.service-details p,
-span {
-  width: 50%;
-  max-width: 50%;
-  text-align: center;
+.service-details p {
+  display: grid;
+  grid-column-start: 0%;
+  grid-column-end: 100%;
 }
 @media (min-width: 1000px) {
   .services-container {
