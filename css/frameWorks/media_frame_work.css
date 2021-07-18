@@ -1,0 +1,6 @@
+@media (max-width: 1000px) {
+    .lg-5 {
+        min-width: calc(95%/5);
+        max-width: calc(95%/5);
+    }
+}

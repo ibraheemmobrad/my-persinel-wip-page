@@ -1,7 +1,7 @@
-background-color: green;
+.article {
+    margin-bottom: 20px;
 }
 .article button {
-    .article button :hover {
     background-color: darkblue;
     min-width: 100%;
     max-width: 100%;
